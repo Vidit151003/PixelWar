@@ -1,10 +1,10 @@
-# GridWar ⚔
+# PixelWar ⚔
 
 A real-time multiplayer tile-claiming game. 2,500 tiles. Unlimited players. Pure chaos.
 
 ![GridWar](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-React%20%2B%20Node.js%20%2B%20Socket.IO-3b82f6?style=flat-square)
 
-**🟢 Live Demo:** [Add your Vercel deployment link here]
+**🟢 Live Demo:** [https://pixel-war-topaz.vercel.app/]
 
 ## Features
 
@@ -79,22 +79,4 @@ gridwar/
 | Server → All | `online_count` | Number of currently connected users |
 | Server → All | `contested_zone` | `x, y, width, height, endsAt` or `{ active: false }` |
 
-## Deployment Guide
 
-### Backend (Render)
-1. Create a new Web Service on Render.
-2. Root Directory: `server`
-3. Build Command: `npm install && npm run build`
-4. Start Command: `npm start`
-*(Render automatically assigns the `PORT` environment variable).*
-
-### Frontend (Vercel)
-1. Create a new Project on Vercel.
-2. Root Directory: `client`
-3. Build Command: `npm run build`
-4. Add Environment Variable:
-   - `VITE_SERVER_URL`: `https://your-render-url.onrender.com`
-
-## License
-
-MIT
