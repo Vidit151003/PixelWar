@@ -2,7 +2,7 @@
 
 A real-time multiplayer tile-claiming game. 2,500 tiles. Unlimited players. Pure chaos.
 
-![GridWar](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-React%20%2B%20Node.js%20%2B%20Socket.IO-3b82f6?style=flat-square)
+![GridWar](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square) ![Stack](https://img.shields.io/badge/Stack-React%20%2B%20Node.js%20%2B%20SWebSocket-3b82f6?style=flat-square)
 
 **🟢 Live Demo:** [https://pixel-war-topaz.vercel.app/]
 
