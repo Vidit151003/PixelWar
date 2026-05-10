@@ -95,15 +95,6 @@ gridwar/
 4. Add Environment Variable:
    - `VITE_SERVER_URL`: `https://your-render-url.onrender.com`
 
-## Game Rules
-
-1. **Join** — Pick a username (max 16 chars) and a color
-2. **Claim** — Click any tile to claim it with your color
-3. **Cooldown** — 1.5 second cooldown between claims (server-enforced)
-4. **Steal** — Any claimed tile can be reclaimed by another player
-5. **Contested Zone** — Every 90s, a random 5×5 zone gives 3× leaderboard weight
-6. **Win** — Top the leaderboard by claiming and holding the most tiles
-
 ## License
 
 MIT
