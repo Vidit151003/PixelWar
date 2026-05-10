@@ -142,6 +142,3 @@ pixelwar/
 5. **Contested Zone** — Every 90s, a random 5×5 zone gives 3× leaderboard weight
 6. **Win** — Top the leaderboard by claiming and holding the most tiles
 
-## License
-
-MIT
